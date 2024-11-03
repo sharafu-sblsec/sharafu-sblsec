@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sharafu-sblsec
-- cybersecurity fan  
+- cybersecurity fan and researcher
+- currently learning and exploring
   
 
 <!---
