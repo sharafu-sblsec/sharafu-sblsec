@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @sharafu-sblsec
-- cybersecurity fan and researcher
-- currently learning and exploring
+- 👋 Hi, I’m sharafu
+- cybersecurity enthusiast |
+- beginner |
+- building skills and learning through enjoyable ways |
+- ctf devotee
   
 
 <!---
