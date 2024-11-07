@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sharafu
 - cybersecurity enthusiast |
-- beginner |
+- beginner | skiddie
 - 
 - ctf devotee
   
