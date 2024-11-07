@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sharafu
 - cybersecurity enthusiast |
 - beginner |
-- building skills and learning through enjoyable ways |
+- 
 - ctf devotee
   
 
