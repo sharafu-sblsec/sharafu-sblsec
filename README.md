@@ -1,5 +1,5 @@
 <h1 align="center">apt2002 sharafu</h1>
-<h3 align="center">Offensive Security researcher | Redteam operator | maldev | RE x86/x64|</h3>
+<h3 align="center">Offensive Security researcher | maldev | RE x86/x64|</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
