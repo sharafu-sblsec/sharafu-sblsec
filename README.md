@@ -1,7 +1,7 @@
 <h1 align="center">apt2002 sharafu</h1>
 <h3 align="center">Offensive Security researcher | maldev | RE x86/x64| I’m Sharafu, adaptable across any domain in IT industry.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://medium.com/@apt2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@apt2002" height="30" width="40" /></a>
 </p>
